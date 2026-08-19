@@ -11,7 +11,7 @@ Aluna:Fernanda Rafaela Eleodoro
 Durante as aulas de IoT, foram desenvolvidos diferentes circuitos utilizando o Arduino Uno e componentes eletrônicos. As atividades tiveram como objetivo compreender na prática o funcionamento de entradas, saídas, sensores e atuadores, além de desenvolver a lógica de programação aplicada à eletrônica.
 
 
-## Aula 04 — Botão e LEDs
+## Aula 04 — Button e LEDs
 
 Nesta atividade foi desenvolvido um circuito utilizando botão, dois LEDs e resistores O objetivo foi utilizar o botão como entrada para controlar os LEDs.
 
